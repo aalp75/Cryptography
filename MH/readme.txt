@@ -7,5 +7,7 @@ by Antoine Lepeltier
 
 Last update: 01/09/2021
 
-Comments: It doesn't work very well but it may help to give the structure of the sentence and you can finish to job manually with a paper and a pen
+Comments: 
+- It doesn't work very well but it may help to give the structure of the sentence and you can finish to job manually with a paper and a pen
+- It adapt to french language since the bigram data is based on a french book
 
